@@ -1,6 +1,6 @@
 {
-	"name" : "gears/pdf",
-	"description" : "A PDF builder using HTML or DOCX templates.",
+	"name" : "noxermes/pdf",
+	"description" : "Fork of gear/pdf : A PDF builder using HTML or DOCX templates.",
 	"homepage" : "https://github.com/phpgearbox/pdf",
 	"keywords" : [
 		"pdf",
